@@ -42,8 +42,6 @@ CHARM stands at the intersection of **emotion and education**, **humor and hard 
 
 Visit our Notion workspace for the full documentation, model architecture, research notes, and future roadmap:
 
-👉 [**CHARM Notion Space**]([https://your-notion-link-here.com](https://garrulous-possum-969.notion.site/STEM-CHARM-1d3997a9756f8092892cfe7ea2da7728?pvs=4))
-
-_(Replace with your actual Notion link)_
+👉 [**CHARM Notion Space**](https://garrulous-possum-969.notion.site/STEM-CHARM-1d3997a9756f8092892cfe7ea2da7728?pvs=4)
 
 ---
