@@ -13,9 +13,6 @@ CHARM doesn’t just explain technical content—it **feels** its way through it
 - Provides **simple, direct interpretations** of formulas and code.
 - Ideal for learners at all levels, from beginners to advanced students needing a friendly nudge.
 
-### 🎙️ Emotionally-Driven TTS (Coming Soon!)
-We're working on integrating **emotionally expressive text-to-speech**, so CHARM can actually *sound* as funny, empathetic, or excited as it types.
-
 ---
 
 ## 🧩 Tech Stack
@@ -24,8 +21,6 @@ We're working on integrating **emotionally expressive text-to-speech**, so CHARM
 - **Sentiment Analysis & Emotion Modeling**
 - **Scientific Text Analysis**
 - **STEM Knowledge Bases**
-- (Future: **TTS Generation with Emotional Intonation**)
-
 ---
 
 ## 🧪 Use Cases
